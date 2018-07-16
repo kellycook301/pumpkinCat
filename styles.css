@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    padding-bottom: .5em;
+    padding-top: .5em;
+}
+
+.media {
+    padding-top: 1em;
+    padding: 1em;
+}
+
+.media img {
+    border-radius: 25%;
+    border: solid 1px black;
+}
+
+.mt-0 {
+    padding-left: 0.7em;
+}
+
+p {
+    padding-left: 1em;
+}
+
+button {
+    padding-left: 1em;
+}
+/* 
+.inline {
+    display: flex; 
+}
+
+.inline ul {
+    padding-left: 2em;
+    padding-right: 2em;
+    
+} */
